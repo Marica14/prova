@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/maric/Desktop/Javaa/Damosebackup/librerie/jxmapviewer2-2.8.jar"/>
-	<classpathentry kind="lib" path="C:/Users/maric/Desktop/Javaa/Damosebackup/librerie/commons-logging-1.3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claud/Downloads/Installers and Zips/jxmapviewer2-2.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claud/Downloads/Installers and Zips/commons-logging-1.3.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
